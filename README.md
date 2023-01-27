@@ -1,1 +1,1 @@
-# LearnitGit
+# LearnItGit
